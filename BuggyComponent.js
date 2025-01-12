@@ -1,0 +1,1 @@
+This error occurs when you try to use a component that hasn't been imported correctly, or when there's a mismatch between the component's name in the import statement and its actual name in the file.  This often happens with functional components using hooks, or class components.
